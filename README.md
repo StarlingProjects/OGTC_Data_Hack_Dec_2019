@@ -1,5 +1,5 @@
 # OGTC_Data_Hack_Dec_2019
-A Data Hack at OGTC 2 December 2019
+A Data Hack at OGTC in Aberdeen on 2 December 2019
 
 We had 16 participants, who were data scientists, developers, engineers, and oil and gas people, plus four staff from [Intelligent Plant](https://www.intelligentplant.com), and one from [BP](https://www.bp.com) as our resident domain experts. You can also find [Intelligent Plant on GitHub](https://github.com/intelligentplant) too.
 
@@ -16,3 +16,6 @@ An exploration of Tesla car data with the goal to improve car efficiency and per
 
 ## [I_cant_read_this](https://github.com/StarlingProjects/)
 A look at how home heating systems might be better used to improve efficiency in order to reduce running costs.
+
+## [MEG Ryan](https://github.com/StarlingProjects/MEG_Ryan) 
+A look at optimising the use of  Mono Ethylene Glycol (MEG) in oil production.
