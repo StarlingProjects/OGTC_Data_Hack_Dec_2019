@@ -5,6 +5,8 @@ We had 16 participants, who were data scientists, developers, engineers, and oil
 
 This hack day provided participants with three data sources via the Intelligent Plant's App store: data from a Tesla car, a range of data from a home heating system, and data from a live production environment provided by BP. All of the data exploration happened through the app store, which meant there were no issues around data being taken away.
 
+[The Oil and Gas Technology Centre](https://www.theogtc.com) saw this as an opportunity for the to try different ways to foster innovation in the sector.
+
 Attendees went through a process of ideation - addressing challenges and opportunities. Ideas were selected to work on and teams were formed to tackle these. 
 
 ## Teams
