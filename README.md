@@ -12,5 +12,5 @@ Attendees went through a process of ideation - addressing challenges and opportu
 ## [Elon's Little Helpers](https://github.com/StarlingProjects/Ellons_Little_Helpers)
 An exploration of Tesla car data with the goal to improve car efficiency and performance.
 
-## [I_cant_read_this:I Can't Read This](https://github.com/StarlingProjects/)
+## [I_cant_read_this](https://github.com/StarlingProjects/)
 A look at how home heating systems might be better used to improve efficiency in order to reduce running costs.
