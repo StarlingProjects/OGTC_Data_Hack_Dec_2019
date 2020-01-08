@@ -7,7 +7,7 @@ This hack day provided participants with three data sources via the Intelligent 
 
 [The Oil and Gas Technology Centre](https://www.theogtc.com) (OGTC) saw this as an opportunity for the to try different ways to foster innovation in the sector.
 
-Attendees went through a process of ideation - addressing challenges and opportunities. Ideas were selected to work on and teams were formed to tackle these. 
+Attendees went through a process of ideation - addressing challenges and opportunities. Ideas were selected to work on and teams were formed to tackle these. We had a round up of progress prior to lunch, a short mid-afternoon one, and then longer ones showing working prototypes at the end. We also did a short retrospective of the event at the end to find out which parts we should keep, and what we should consider trying next time we facilitate a similar event.
 
 ## Teams
 
